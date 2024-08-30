@@ -1,0 +1,14 @@
+E:\labs Vs\KPZ\lab 6\lab 6\bin\Debug\net8.0\lab 6.exe
+E:\labs Vs\KPZ\lab 6\lab 6\bin\Debug\net8.0\lab 6.deps.json
+E:\labs Vs\KPZ\lab 6\lab 6\bin\Debug\net8.0\lab 6.runtimeconfig.json
+E:\labs Vs\KPZ\lab 6\lab 6\bin\Debug\net8.0\lab 6.dll
+E:\labs Vs\KPZ\lab 6\lab 6\bin\Debug\net8.0\lab 6.pdb
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\lab 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\lab 6.AssemblyInfoInputs.cache
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\lab 6.AssemblyInfo.cs
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\lab 6.csproj.CoreCompileInputs.cache
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\lab 6.dll
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\refint\lab 6.dll
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\lab 6.pdb
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\lab 6.genruntimeconfig.cache
+E:\labs Vs\KPZ\lab 6\lab 6\obj\Debug\net8.0\ref\lab 6.dll
